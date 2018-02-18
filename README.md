@@ -7,11 +7,11 @@ Remove the *tree* view from the service catalog of the user portal.
 
 *Before*
 
-![Description decoration](https://raw.githubusercontent.com/Molkobain/itop-portal-rm-tree-service-catalog/master/docs/mprtsc-service-catalog-01.PNG)
+![Description decoration](https://raw.githubusercontent.com/Molkobain/itop-portal-rm-tree-service-catalog/master/docs/mprtsc-service-catalog-before.PNG)
 
 *After*
 
-![Description decoration](https://raw.githubusercontent.com/Molkobain/itop-portal-rm-tree-service-catalog/master/docs/mprtsc-service-catalog-02.PNG)
+![Description decoration](https://raw.githubusercontent.com/Molkobain/itop-portal-rm-tree-service-catalog/master/docs/mprtsc-service-catalog-after.PNG)
 
 ### Compatibility
 Compatible with iTop 2.3+
