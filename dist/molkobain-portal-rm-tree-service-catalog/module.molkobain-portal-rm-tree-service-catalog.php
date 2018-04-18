@@ -8,7 +8,7 @@ SetupWebPage::AddModule(
 	__FILE__, // Path to the current file, all other file names are relative to the directory containing this file
 	'molkobain-portal-rm-tree-service-catalog/1.0.0', array(
 	// Identification
-	'label' => 'Portal: Remove tree mode from service catalog',
+	'label' => 'Portal: Remove tree view from service catalog',
 		'category' => 'Portal',
 	// Setup
 	'dependencies' => array(
