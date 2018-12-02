@@ -14,7 +14,7 @@ SetupWebPage::AddModule(
 	'molkobain-portal-rm-tree-service-catalog/1.0.0', array(
 	// Identification
 	'label' => 'Portal: Remove tree view from service catalog',
-		'category' => 'Portal',
+		'category' => 'portal',
 	// Setup
 	'dependencies' => array(
         'itop-portal/1.0.0',
